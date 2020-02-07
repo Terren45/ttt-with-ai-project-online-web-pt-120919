@@ -6,13 +6,5 @@ gem 'pry'
 gem 'require_all'
 
 
-PLATFORMS
-  ruby
 
-DEPENDENCIES
-  pry
-  require_all
-  rspec
-
-BUNDLED WITH
-   1.10.6
+   
